@@ -31,7 +31,7 @@ The web interface will be developed using TomCat server, with a simple minimalis
 who is collaborating on this project
 
 Our thread on /r/progether
-[Thaenor](redditcom/u/thaenor)
-[Ilikecpp](redditcom/u/Ilikecpp)
-[wmcscrooge](redditcom/u/wmcscrooge)
-[progethertest](redditcom/u/progethertest)
+[Thaenor](reddit.com/u/thaenor)
+[Ilikecpp](reddit.com/u/Ilikecpp)
+[wmcscrooge](reddit.com/u/wmcscrooge)
+[progethertest](reddit.com/u/progethertest)

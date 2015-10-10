@@ -30,8 +30,8 @@ The database will be mongoDB (noSQL).
 The web interface will be developed using TomCat server, with a simple minimalistic layout.
 who is collaborating on this project
 
-Our thread on /r/progether
-[Thaenor](reddit.com/u/thaenor)
-[Ilikecpp](reddit.com/u/Ilikecpp)
-[wmcscrooge](reddit.com/u/wmcscrooge)
-[progethertest](reddit.com/u/progethertest)
+Our thread on /r/progether  
+[Thaenor](https://reddit.com/u/thaenor)  
+[Ilikecpp](https://reddit.com/u/Ilikecpp)  
+[wmcscrooge](https://reddit.com/u/wmcscrooge)  
+[progethertest](hppts://reddit.com/u/progethertest)  
